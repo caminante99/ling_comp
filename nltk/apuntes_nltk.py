@@ -1,15 +1,17 @@
 # -*- coding: cp1252 -*-
 
+''' Comprueba que tienes nltk instalado: '''
 import nltk
 
-''' Para instalar escribe: pip install -U nltk 
-después de insertar la ruta de instalación de tu Python en el PATH'''
+''' Para instalarlo escribe: pip install -U nltk 
+en la consola de tu ordenador después de insertar 
+la ruta de instalación de tu Python en el PATH'''
 
 ''' Si no tienes pip puedes instalarlo ejecutando el archivo
-get_pip.py que hay en esta carpeta. '''
+get_pip.py que hay en esta carpeta.
 
-''' Si tienes Windows 32bits puedes usar el archivo.exe
-que hay en esta carpeta para instalar. 
+Si tienes Windows 32bits puedes usar el archivo.exe
+que hay en esta carpeta para instalar nltk. 
 
 ''' Por otro lado, además de la librería también es necesario
 instalar una serie de ficheros y diccionarios con patrones
